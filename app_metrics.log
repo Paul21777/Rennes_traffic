@@ -1,0 +1,1042 @@
+2025-07-07 12:10:00,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 12:10:00,509 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 12:10:00,510 - INFO -  * Restarting with stat
+2025-07-07 12:10:13,004 - WARNING -  * Debugger is active!
+2025-07-07 12:10:13,005 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:10:13,044 - INFO - Request received at 2025-07-07 12:10:13.044868. Total calls this hour: 1
+2025-07-07 12:10:13,050 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:13.050856
+2025-07-07 12:10:13,052 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:13] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:10:13,099 - INFO - Request received at 2025-07-07 12:10:13.099880. Total calls this hour: 2
+2025-07-07 12:10:13,106 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:13.106081
+2025-07-07 12:10:13,106 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:13] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:10:13,112 - INFO - Request received at 2025-07-07 12:10:13.112619. Total calls this hour: 3
+2025-07-07 12:10:13,113 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:13.113943
+2025-07-07 12:10:13,114 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:13] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:10:14,356 - INFO - Request received at 2025-07-07 12:10:14.356606. Total calls this hour: 4
+2025-07-07 12:10:14,360 - INFO - Request received at 2025-07-07 12:10:14.360762. Total calls this hour: 5
+2025-07-07 12:10:14,361 - INFO - Request received at 2025-07-07 12:10:14.361410. Total calls this hour: 6
+2025-07-07 12:10:14,362 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:14.362527
+2025-07-07 12:10:14,363 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:14.363030
+2025-07-07 12:10:14,363 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:14.363406
+2025-07-07 12:10:14,363 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:14,364 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:14,364 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:14,582 - INFO - Request received at 2025-07-07 12:10:14.582553. Total calls this hour: 7
+2025-07-07 12:10:14,584 - INFO - Request received at 2025-07-07 12:10:14.584853. Total calls this hour: 8
+2025-07-07 12:10:14,590 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:14.590514
+2025-07-07 12:10:14,591 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:14,593 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:14.593340
+2025-07-07 12:10:14,594 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:10:14,601 - INFO - Request received at 2025-07-07 12:10:14.601830. Total calls this hour: 9
+2025-07-07 12:10:14,642 - INFO - Request received at 2025-07-07 12:10:14.642258. Total calls this hour: 10
+2025-07-07 12:10:14,652 - INFO - Request received at 2025-07-07 12:10:14.652264. Total calls this hour: 11
+2025-07-07 12:10:14,659 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:10:14.659795
+2025-07-07 12:10:14,660 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:10:14,669 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:10:14.669464
+2025-07-07 12:10:14,670 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:10:14,674 - INFO - Request completed in 0.07 seconds at 2025-07-07 12:10:14.674639
+2025-07-07 12:10:14,675 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:14] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:10:29,752 - INFO - Request received at 2025-07-07 12:10:29.752717. Total calls this hour: 12
+2025-07-07 12:10:29,753 - INFO - Index function called at 2025-07-07 12:10:29.753237
+2025-07-07 12:10:30,217 - INFO - Index function completed in 0.46 seconds at 2025-07-07 12:10:30.217551
+2025-07-07 12:10:30,218 - INFO - Request completed in 0.47 seconds at 2025-07-07 12:10:30.218007
+2025-07-07 12:10:30,218 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:30] "GET / HTTP/1.1" 200 -
+2025-07-07 12:10:34,013 - INFO - Request received at 2025-07-07 12:10:34.013538. Total calls this hour: 13
+2025-07-07 12:10:34,034 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:10:34.034661
+2025-07-07 12:10:34,035 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:34] "[35m[1mPOST /dashboard/telemetry/accept_telemetry_consent HTTP/1.1[0m" 204 -
+2025-07-07 12:10:35,274 - INFO - Request received at 2025-07-07 12:10:35.274199. Total calls this hour: 14
+2025-07-07 12:10:36,114 - INFO - Request completed in 0.84 seconds at 2025-07-07 12:10:36.114493
+2025-07-07 12:10:36,115 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:36] "POST /dashboard/telemetry/submit_follow_up HTTP/1.1" 200 -
+2025-07-07 12:10:43,831 - INFO - Request received at 2025-07-07 12:10:43.830989. Total calls this hour: 15
+2025-07-07 12:10:43,832 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:43.832017
+2025-07-07 12:10:43,832 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:43] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:10:43,881 - INFO - Request received at 2025-07-07 12:10:43.881907. Total calls this hour: 16
+2025-07-07 12:10:43,882 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:43.882841
+2025-07-07 12:10:43,883 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:43] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:10:43,885 - INFO - Request received at 2025-07-07 12:10:43.885245. Total calls this hour: 17
+2025-07-07 12:10:43,886 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:43.886778
+2025-07-07 12:10:43,887 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:43] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:10:44,319 - INFO - Request received at 2025-07-07 12:10:44.319733. Total calls this hour: 18
+2025-07-07 12:10:44,320 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.320904
+2025-07-07 12:10:44,321 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:44,324 - INFO - Request received at 2025-07-07 12:10:44.324724. Total calls this hour: 19
+2025-07-07 12:10:44,326 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.326271
+2025-07-07 12:10:44,327 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:44,329 - INFO - Request received at 2025-07-07 12:10:44.329030. Total calls this hour: 20
+2025-07-07 12:10:44,330 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.330457
+2025-07-07 12:10:44,331 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:44,367 - INFO - Request received at 2025-07-07 12:10:44.367032. Total calls this hour: 21
+2025-07-07 12:10:44,369 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.368982
+2025-07-07 12:10:44,369 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:10:44,389 - INFO - Request received at 2025-07-07 12:10:44.389446. Total calls this hour: 22
+2025-07-07 12:10:44,391 - INFO - Request received at 2025-07-07 12:10:44.391444. Total calls this hour: 23
+2025-07-07 12:10:44,393 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.393919
+2025-07-07 12:10:44,394 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:10:44,404 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:44.404718
+2025-07-07 12:10:44,406 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:10:44,420 - INFO - Request received at 2025-07-07 12:10:44.420513. Total calls this hour: 24
+2025-07-07 12:10:44,427 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:10:44.426980
+2025-07-07 12:10:44,427 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:10:44,433 - INFO - Request received at 2025-07-07 12:10:44.433348. Total calls this hour: 25
+2025-07-07 12:10:44,436 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:10:44.436520
+2025-07-07 12:10:44,437 - INFO - 127.0.0.1 - - [07/Jul/2025 12:10:44] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:11:23,347 - INFO - Request received at 2025-07-07 12:11:23.347288. Total calls this hour: 26
+2025-07-07 12:11:23,348 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:23.348324
+2025-07-07 12:11:23,349 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:23] "GET /dashboard/static/pages/plotly_graph.html HTTP/1.1" 200 -
+2025-07-07 12:11:23,403 - INFO - Request received at 2025-07-07 12:11:23.403760. Total calls this hour: 27
+2025-07-07 12:11:23,404 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:23.404661
+2025-07-07 12:11:23,406 - INFO - Request received at 2025-07-07 12:11:23.406844. Total calls this hour: 28
+2025-07-07 12:11:23,411 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:23] "GET /dashboard/static/elements/endpointDetails.html HTTP/1.1" 200 -
+2025-07-07 12:11:23,413 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:11:23.413162
+2025-07-07 12:11:23,414 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:23] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:11:23,435 - INFO - Request received at 2025-07-07 12:11:23.435799. Total calls this hour: 29
+2025-07-07 12:11:23,436 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:23.436700
+2025-07-07 12:11:23,437 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:23] "GET /dashboard/static/elements/monitorLevel.html HTTP/1.1" 200 -
+2025-07-07 12:11:27,565 - INFO - Request received at 2025-07-07 12:11:27.565037. Total calls this hour: 30
+2025-07-07 12:11:27,576 - INFO - Request received at 2025-07-07 12:11:27.576402. Total calls this hour: 31
+2025-07-07 12:11:27,577 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:11:27.577444
+2025-07-07 12:11:27,579 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:27] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:11:27,579 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:27.579938
+2025-07-07 12:11:27,580 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:27] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:11:27,614 - INFO - Request received at 2025-07-07 12:11:27.614767. Total calls this hour: 32
+2025-07-07 12:11:27,618 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:27.618191
+2025-07-07 12:11:27,618 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:27] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:11:29,076 - INFO - Request received at 2025-07-07 12:11:29.076554. Total calls this hour: 33
+2025-07-07 12:11:29,080 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:29.080781
+2025-07-07 12:11:29,081 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:29] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:11:29,439 - INFO - Request received at 2025-07-07 12:11:29.439218. Total calls this hour: 34
+2025-07-07 12:11:29,441 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:29.441609
+2025-07-07 12:11:29,442 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:29] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:11:29,443 - INFO - Request received at 2025-07-07 12:11:29.443886. Total calls this hour: 35
+2025-07-07 12:11:29,447 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:29.447479
+2025-07-07 12:11:29,448 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:29] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:11:29,460 - INFO - Request received at 2025-07-07 12:11:29.460412. Total calls this hour: 36
+2025-07-07 12:11:29,461 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:29.461426
+2025-07-07 12:11:29,461 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:29] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:11:29,866 - INFO - Request received at 2025-07-07 12:11:29.866173. Total calls this hour: 37
+2025-07-07 12:11:29,879 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:11:29.879146
+2025-07-07 12:11:29,879 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:29] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:11:30,563 - INFO - Request received at 2025-07-07 12:11:30.563683. Total calls this hour: 38
+2025-07-07 12:11:30,566 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:30.566933
+2025-07-07 12:11:30,567 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:30] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:11:30,578 - INFO - Request received at 2025-07-07 12:11:30.578147. Total calls this hour: 39
+2025-07-07 12:11:30,580 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:30.580224
+2025-07-07 12:11:30,580 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:30] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:11:30,945 - INFO - Request received at 2025-07-07 12:11:30.945526. Total calls this hour: 40
+2025-07-07 12:11:30,960 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:11:30.960011
+2025-07-07 12:11:30,961 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:30] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:11:31,905 - INFO - Request received at 2025-07-07 12:11:31.905552. Total calls this hour: 41
+2025-07-07 12:11:31,907 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:31.907116
+2025-07-07 12:11:31,909 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:31] "GET /dashboard/static/pages/reporting.html HTTP/1.1" 200 -
+2025-07-07 12:11:33,249 - INFO - Request received at 2025-07-07 12:11:33.249354. Total calls this hour: 42
+2025-07-07 12:11:33,252 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:33.252315
+2025-07-07 12:11:33,253 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:11:33,276 - INFO - Request received at 2025-07-07 12:11:33.276285. Total calls this hour: 43
+2025-07-07 12:11:33,279 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:33.279736
+2025-07-07 12:11:33,280 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:11:33,366 - INFO - Request received at 2025-07-07 12:11:33.366918. Total calls this hour: 44
+2025-07-07 12:11:33,370 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:33.370206
+2025-07-07 12:11:33,370 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:11:33,741 - INFO - Request received at 2025-07-07 12:11:33.741772. Total calls this hour: 45
+2025-07-07 12:11:33,750 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:11:33.750301
+2025-07-07 12:11:33,751 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:11:33,758 - INFO - Request received at 2025-07-07 12:11:33.758054. Total calls this hour: 46
+2025-07-07 12:11:33,761 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:33.761035
+2025-07-07 12:11:33,761 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:11:33,767 - INFO - Request received at 2025-07-07 12:11:33.767620. Total calls this hour: 47
+2025-07-07 12:11:33,771 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:33.771297
+2025-07-07 12:11:33,771 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:33] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:11:36,157 - INFO - Request received at 2025-07-07 12:11:36.157182. Total calls this hour: 48
+2025-07-07 12:11:36,159 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:11:36.159782
+2025-07-07 12:11:36,160 - INFO - 127.0.0.1 - - [07/Jul/2025 12:11:36] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:03,985 - INFO - Request received at 2025-07-07 12:12:03.985903. Total calls this hour: 49
+2025-07-07 12:12:03,986 - INFO - Index function called at 2025-07-07 12:12:03.986248
+2025-07-07 12:12:04,048 - INFO - Index function completed in 0.06 seconds at 2025-07-07 12:12:04.048705
+2025-07-07 12:12:04,049 - INFO - Request completed in 0.06 seconds at 2025-07-07 12:12:04.049169
+2025-07-07 12:12:04,049 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:04] "GET / HTTP/1.1" 200 -
+2025-07-07 12:12:06,843 - INFO - Request received at 2025-07-07 12:12:06.843560. Total calls this hour: 50
+2025-07-07 12:12:06,843 - INFO - Index function called at 2025-07-07 12:12:06.843933
+2025-07-07 12:12:07,132 - INFO - Index function completed in 0.29 seconds at 2025-07-07 12:12:07.131971
+2025-07-07 12:12:07,132 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:12:07.132504
+2025-07-07 12:12:07,132 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:07] "POST / HTTP/1.1" 200 -
+2025-07-07 12:12:09,764 - INFO - Request received at 2025-07-07 12:12:09.764362. Total calls this hour: 51
+2025-07-07 12:12:09,764 - INFO - Index function called at 2025-07-07 12:12:09.764713
+2025-07-07 12:12:09,950 - INFO - Index function completed in 0.19 seconds at 2025-07-07 12:12:09.950107
+2025-07-07 12:12:09,950 - INFO - Request completed in 0.19 seconds at 2025-07-07 12:12:09.950601
+2025-07-07 12:12:09,950 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:09] "POST / HTTP/1.1" 200 -
+2025-07-07 12:12:12,538 - INFO - Request received at 2025-07-07 12:12:12.538504. Total calls this hour: 52
+2025-07-07 12:12:12,539 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:12.539430
+2025-07-07 12:12:12,540 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:12] "GET /dashboard/hourly_load HTTP/1.1" 200 -
+2025-07-07 12:12:12,583 - INFO - Request received at 2025-07-07 12:12:12.583244. Total calls this hour: 53
+2025-07-07 12:12:12,584 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:12.584153
+2025-07-07 12:12:12,584 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:12] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:12:12,646 - INFO - Request received at 2025-07-07 12:12:12.646329. Total calls this hour: 54
+2025-07-07 12:12:12,647 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:12.647246
+2025-07-07 12:12:12,647 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:12] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:12:13,036 - INFO - Request received at 2025-07-07 12:12:13.036386. Total calls this hour: 55
+2025-07-07 12:12:13,037 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.037297
+2025-07-07 12:12:13,037 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:13,045 - INFO - Request received at 2025-07-07 12:12:13.045540. Total calls this hour: 56
+2025-07-07 12:12:13,048 - INFO - Request received at 2025-07-07 12:12:13.047979. Total calls this hour: 57
+2025-07-07 12:12:13,049 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.049053
+2025-07-07 12:12:13,049 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:13,050 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.050197
+2025-07-07 12:12:13,051 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:13,109 - INFO - Request received at 2025-07-07 12:12:13.109393. Total calls this hour: 58
+2025-07-07 12:12:13,112 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.112032
+2025-07-07 12:12:13,112 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:12:13,142 - INFO - Request received at 2025-07-07 12:12:13.142823. Total calls this hour: 59
+2025-07-07 12:12:13,143 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.143822
+2025-07-07 12:12:13,144 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:13,146 - INFO - Request received at 2025-07-07 12:12:13.146549. Total calls this hour: 60
+2025-07-07 12:12:13,150 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.150801
+2025-07-07 12:12:13,151 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:13,214 - INFO - Request received at 2025-07-07 12:12:13.214096. Total calls this hour: 61
+2025-07-07 12:12:13,215 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:13.215052
+2025-07-07 12:12:13,215 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:13] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:14,311 - INFO - Request received at 2025-07-07 12:12:14.310935. Total calls this hour: 62
+2025-07-07 12:12:14,311 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:14.311902
+2025-07-07 12:12:14,312 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:14] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:14,343 - INFO - Request received at 2025-07-07 12:12:14.343042. Total calls this hour: 63
+2025-07-07 12:12:14,346 - INFO - Request received at 2025-07-07 12:12:14.346181. Total calls this hour: 64
+2025-07-07 12:12:14,348 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:12:14.348714
+2025-07-07 12:12:14,349 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:14] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:14,359 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:12:14.359540
+2025-07-07 12:12:14,360 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:14] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:12:14,383 - INFO - Request received at 2025-07-07 12:12:14.383526. Total calls this hour: 65
+2025-07-07 12:12:14,385 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:14.385826
+2025-07-07 12:12:14,386 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:14] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:12:14,390 - INFO - Request received at 2025-07-07 12:12:14.390237. Total calls this hour: 66
+2025-07-07 12:12:14,393 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:14.393673
+2025-07-07 12:12:14,394 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:14] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:12:15,720 - INFO - Request received at 2025-07-07 12:12:15.720933. Total calls this hour: 67
+2025-07-07 12:12:15,724 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:15.724288
+2025-07-07 12:12:15,725 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:15] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:16,301 - INFO - Request received at 2025-07-07 12:12:16.301853. Total calls this hour: 68
+2025-07-07 12:12:16,303 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:16.303771
+2025-07-07 12:12:16,304 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:16] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:12:16,307 - INFO - Request received at 2025-07-07 12:12:16.307245. Total calls this hour: 69
+2025-07-07 12:12:16,310 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:16.310406
+2025-07-07 12:12:16,310 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:16] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:12:16,322 - INFO - Request received at 2025-07-07 12:12:16.322538. Total calls this hour: 70
+2025-07-07 12:12:16,323 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:16.323724
+2025-07-07 12:12:16,324 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:16] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:12:17,054 - INFO - Request received at 2025-07-07 12:12:17.054032. Total calls this hour: 71
+2025-07-07 12:12:17,071 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:12:17.071388
+2025-07-07 12:12:17,071 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:17] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:17,812 - INFO - Request received at 2025-07-07 12:12:17.812481. Total calls this hour: 72
+2025-07-07 12:12:17,815 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:17.815494
+2025-07-07 12:12:17,815 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:17] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:12:17,827 - INFO - Request received at 2025-07-07 12:12:17.827396. Total calls this hour: 73
+2025-07-07 12:12:17,829 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:17.829211
+2025-07-07 12:12:17,829 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:17] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:12:18,590 - INFO - Request received at 2025-07-07 12:12:18.590041. Total calls this hour: 74
+2025-07-07 12:12:18,590 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:18.590920
+2025-07-07 12:12:18,591 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:18] "[36mGET /dashboard/static/pages/reporting.html HTTP/1.1[0m" 304 -
+2025-07-07 12:12:19,419 - INFO - Request received at 2025-07-07 12:12:19.419394. Total calls this hour: 75
+2025-07-07 12:12:19,422 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:19.422082
+2025-07-07 12:12:19,422 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:19] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:12:19,483 - INFO - Request received at 2025-07-07 12:12:19.482981. Total calls this hour: 76
+2025-07-07 12:12:19,484 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:19.484908
+2025-07-07 12:12:19,485 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:19] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:12:19,811 - INFO - Request received at 2025-07-07 12:12:19.810995. Total calls this hour: 77
+2025-07-07 12:12:19,813 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:19.813445
+2025-07-07 12:12:19,813 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:19] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:12:19,817 - INFO - Request received at 2025-07-07 12:12:19.817624. Total calls this hour: 78
+2025-07-07 12:12:19,819 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:19.819473
+2025-07-07 12:12:19,819 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:19] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:12:19,829 - INFO - Request received at 2025-07-07 12:12:19.829755. Total calls this hour: 79
+2025-07-07 12:12:19,830 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:19.830636
+2025-07-07 12:12:19,831 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:19] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:12:20,354 - INFO - Request received at 2025-07-07 12:12:20.354489. Total calls this hour: 80
+2025-07-07 12:12:20,358 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:20.358134
+2025-07-07 12:12:20,358 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:20] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:22,569 - INFO - Request received at 2025-07-07 12:12:22.569244. Total calls this hour: 81
+2025-07-07 12:12:22,571 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:22.571835
+2025-07-07 12:12:22,572 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:22] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:12:24,775 - INFO - Request received at 2025-07-07 12:12:24.775016. Total calls this hour: 82
+2025-07-07 12:12:24,785 - INFO - Request received at 2025-07-07 12:12:24.785223. Total calls this hour: 83
+2025-07-07 12:12:24,793 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:12:24.793068
+2025-07-07 12:12:24,794 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:24] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:12:24,797 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:12:24.797147
+2025-07-07 12:12:24,797 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:24] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:12:24,800 - INFO - Request received at 2025-07-07 12:12:24.800032. Total calls this hour: 84
+2025-07-07 12:12:24,805 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:12:24.804964
+2025-07-07 12:12:24,805 - INFO - 127.0.0.1 - - [07/Jul/2025 12:12:24] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:13:40,250 - INFO - Request received at 2025-07-07 12:13:40.250814. Total calls this hour: 85
+2025-07-07 12:13:40,251 - INFO - Index function called at 2025-07-07 12:13:40.251229
+2025-07-07 12:13:40,434 - INFO - Index function completed in 0.18 seconds at 2025-07-07 12:13:40.434750
+2025-07-07 12:13:40,435 - INFO - Request completed in 0.18 seconds at 2025-07-07 12:13:40.435133
+2025-07-07 12:13:40,435 - INFO - 127.0.0.1 - - [07/Jul/2025 12:13:40] "POST / HTTP/1.1" 200 -
+2025-07-07 12:13:41,224 - INFO - Request received at 2025-07-07 12:13:41.223983. Total calls this hour: 86
+2025-07-07 12:13:41,224 - INFO - Index function called at 2025-07-07 12:13:41.224330
+2025-07-07 12:13:41,405 - INFO - Index function completed in 0.18 seconds at 2025-07-07 12:13:41.405862
+2025-07-07 12:13:41,406 - INFO - Request completed in 0.18 seconds at 2025-07-07 12:13:41.406377
+2025-07-07 12:13:41,407 - INFO - 127.0.0.1 - - [07/Jul/2025 12:13:41] "POST / HTTP/1.1" 200 -
+2025-07-07 12:14:11,011 - INFO - Request received at 2025-07-07 12:14:11.011430. Total calls this hour: 87
+2025-07-07 12:14:11,015 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:11.015607
+2025-07-07 12:14:11,016 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:11] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:12,009 - INFO - Request received at 2025-07-07 12:14:12.009288. Total calls this hour: 88
+2025-07-07 12:14:12,011 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:12.011527
+2025-07-07 12:14:12,012 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:12] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:14:12,017 - INFO - Request received at 2025-07-07 12:14:12.017188. Total calls this hour: 89
+2025-07-07 12:14:12,020 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:12.020687
+2025-07-07 12:14:12,021 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:12] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:14:12,032 - INFO - Request received at 2025-07-07 12:14:12.032735. Total calls this hour: 90
+2025-07-07 12:14:12,033 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:12.033765
+2025-07-07 12:14:12,034 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:12] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:14:12,394 - INFO - Request received at 2025-07-07 12:14:12.393997. Total calls this hour: 91
+2025-07-07 12:14:12,398 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:12.398127
+2025-07-07 12:14:12,398 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:12] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:16,583 - INFO - Request received at 2025-07-07 12:14:16.583619. Total calls this hour: 92
+2025-07-07 12:14:16,588 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:16.588314
+2025-07-07 12:14:16,588 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:16] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:17,376 - INFO - Request received at 2025-07-07 12:14:17.376703. Total calls this hour: 93
+2025-07-07 12:14:17,378 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:17.378960
+2025-07-07 12:14:17,379 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:17] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:18,327 - INFO - Request received at 2025-07-07 12:14:18.327710. Total calls this hour: 94
+2025-07-07 12:14:18,331 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:18.331355
+2025-07-07 12:14:18,332 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:18] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:14:18,334 - INFO - Request received at 2025-07-07 12:14:18.334009. Total calls this hour: 95
+2025-07-07 12:14:18,336 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:18.336792
+2025-07-07 12:14:18,337 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:18] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:14:18,356 - INFO - Request received at 2025-07-07 12:14:18.356180. Total calls this hour: 96
+2025-07-07 12:14:18,357 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:18.357283
+2025-07-07 12:14:18,358 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:18] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:14:20,058 - INFO - Request received at 2025-07-07 12:14:20.058481. Total calls this hour: 97
+2025-07-07 12:14:20,070 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:14:20.070118
+2025-07-07 12:14:20,070 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:20] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:21,004 - INFO - Request received at 2025-07-07 12:14:21.004498. Total calls this hour: 98
+2025-07-07 12:14:21,015 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:14:21.015426
+2025-07-07 12:14:21,016 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:21] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:14:22,106 - INFO - Request received at 2025-07-07 12:14:22.106568. Total calls this hour: 99
+2025-07-07 12:14:22,108 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:22.108414
+2025-07-07 12:14:22,108 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:22] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:14:22,122 - INFO - Request received at 2025-07-07 12:14:22.122045. Total calls this hour: 100
+2025-07-07 12:14:22,126 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:14:22.125968
+2025-07-07 12:14:22,126 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:22] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:14:23,469 - INFO - Request received at 2025-07-07 12:14:23.469595. Total calls this hour: 101
+2025-07-07 12:14:23,624 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:23] "[35m[1mPOST /dashboard/api/api_performance HTTP/1.1[0m" 500 -
+2025-07-07 12:14:53,504 - INFO - Request received at 2025-07-07 12:14:53.504160. Total calls this hour: 102
+2025-07-07 12:14:53,536 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:53] "[35m[1mGET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1[0m" 500 -
+2025-07-07 12:14:59,632 - INFO - Request received at 2025-07-07 12:14:59.632295. Total calls this hour: 103
+2025-07-07 12:14:59,655 - INFO - 127.0.0.1 - - [07/Jul/2025 12:14:59] "[35m[1mGET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1[0m" 500 -
+2025-07-07 12:15:00,525 - INFO - Request received at 2025-07-07 12:15:00.525303. Total calls this hour: 104
+2025-07-07 12:15:00,550 - INFO - Request received at 2025-07-07 12:15:00.550618. Total calls this hour: 105
+2025-07-07 12:15:00,555 - INFO - 127.0.0.1 - - [07/Jul/2025 12:15:00] "[35m[1mGET /dashboard/api/overview HTTP/1.1[0m" 500 -
+2025-07-07 12:15:00,570 - INFO - Request received at 2025-07-07 12:15:00.570711. Total calls this hour: 106
+2025-07-07 12:15:00,577 - INFO - 127.0.0.1 - - [07/Jul/2025 12:15:00] "[35m[1mGET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1[0m" 500 -
+2025-07-07 12:15:00,657 - INFO - 127.0.0.1 - - [07/Jul/2025 12:15:00] "[35m[1mGET /dashboard/api/deploy_details HTTP/1.1[0m" 500 -
+2025-07-07 12:16:54,331 - INFO - Scheduler has been shut down
+2025-07-07 12:16:54,565 - INFO - Scheduler has been shut down
+2025-07-07 12:18:26,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 12:18:26,056 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 12:18:26,057 - INFO -  * Restarting with stat
+2025-07-07 12:18:39,361 - WARNING -  * Debugger is active!
+2025-07-07 12:18:39,362 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:18:40,898 - INFO - Request received at 2025-07-07 12:18:40.898152. Total calls this hour: 1
+2025-07-07 12:18:40,905 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:40.905694
+2025-07-07 12:18:40,906 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:40] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:18:41,105 - INFO - Request received at 2025-07-07 12:18:41.105314. Total calls this hour: 2
+2025-07-07 12:18:41,111 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:41.111089
+2025-07-07 12:18:41,111 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:18:41,115 - INFO - Request received at 2025-07-07 12:18:41.115207. Total calls this hour: 3
+2025-07-07 12:18:41,116 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.116010
+2025-07-07 12:18:41,116 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:18:41,631 - INFO - Request received at 2025-07-07 12:18:41.630965. Total calls this hour: 4
+2025-07-07 12:18:41,631 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.631882
+2025-07-07 12:18:41,632 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/static/elements/menu.html HTTP/1.1" 200 -
+2025-07-07 12:18:41,646 - INFO - Request received at 2025-07-07 12:18:41.646336. Total calls this hour: 5
+2025-07-07 12:18:41,647 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.647228
+2025-07-07 12:18:41,648 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/static/elements/modal.html HTTP/1.1" 200 -
+2025-07-07 12:18:41,653 - INFO - Request received at 2025-07-07 12:18:41.653580. Total calls this hour: 6
+2025-07-07 12:18:41,654 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.654617
+2025-07-07 12:18:41,655 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:18:41,679 - INFO - Request received at 2025-07-07 12:18:41.679695. Total calls this hour: 7
+2025-07-07 12:18:41,682 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.682698
+2025-07-07 12:18:41,683 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:18:41,709 - INFO - Request received at 2025-07-07 12:18:41.709817. Total calls this hour: 8
+2025-07-07 12:18:41,714 - INFO - Request received at 2025-07-07 12:18:41.714365. Total calls this hour: 9
+2025-07-07 12:18:41,716 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:41.716397
+2025-07-07 12:18:41,719 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/static/pages/telemetry.html HTTP/1.1" 200 -
+2025-07-07 12:18:41,724 - INFO - Request received at 2025-07-07 12:18:41.724738. Total calls this hour: 10
+2025-07-07 12:18:41,743 - INFO - Request received at 2025-07-07 12:18:41.743094. Total calls this hour: 11
+2025-07-07 12:18:41,756 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:41.756015
+2025-07-07 12:18:41,756 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:18:41,757 - INFO - Request completed in 0.03 seconds at 2025-07-07 12:18:41.757696
+2025-07-07 12:18:41,758 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:18:41,777 - INFO - Request completed in 0.07 seconds at 2025-07-07 12:18:41.777080
+2025-07-07 12:18:41,778 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:41] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:18:43,928 - INFO - Request received at 2025-07-07 12:18:43.928522. Total calls this hour: 12
+2025-07-07 12:18:43,929 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:43.929494
+2025-07-07 12:18:43,929 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:43] "GET /dashboard/static/pages/plotly_graph.html HTTP/1.1" 200 -
+2025-07-07 12:18:43,953 - INFO - Request received at 2025-07-07 12:18:43.953464. Total calls this hour: 13
+2025-07-07 12:18:43,957 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:43.957863
+2025-07-07 12:18:43,958 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:43] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:18:43,960 - INFO - Request received at 2025-07-07 12:18:43.960225. Total calls this hour: 14
+2025-07-07 12:18:43,961 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:43.961332
+2025-07-07 12:18:43,961 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:43] "GET /dashboard/static/elements/endpointDetails.html HTTP/1.1" 200 -
+2025-07-07 12:18:44,088 - INFO - Request received at 2025-07-07 12:18:44.088783. Total calls this hour: 15
+2025-07-07 12:18:44,089 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:44.089733
+2025-07-07 12:18:44,090 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:44] "GET /dashboard/static/elements/monitorLevel.html HTTP/1.1" 200 -
+2025-07-07 12:18:45,558 - INFO - Request received at 2025-07-07 12:18:45.558855. Total calls this hour: 16
+2025-07-07 12:18:45,564 - INFO - Request received at 2025-07-07 12:18:45.564041. Total calls this hour: 17
+2025-07-07 12:18:45,565 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:45.565772
+2025-07-07 12:18:45,567 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:45] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:18:45,568 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:45.568947
+2025-07-07 12:18:45,569 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:45] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:18:45,587 - INFO - Request received at 2025-07-07 12:18:45.587447. Total calls this hour: 18
+2025-07-07 12:18:45,589 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:45.589188
+2025-07-07 12:18:45,589 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:45] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:18:45,737 - INFO - Request received at 2025-07-07 12:18:45.737653. Total calls this hour: 19
+2025-07-07 12:18:45,740 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:45.740147
+2025-07-07 12:18:45,741 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:45] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:18:46,013 - INFO - Request received at 2025-07-07 12:18:46.013257. Total calls this hour: 20
+2025-07-07 12:18:46,023 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:46.023692
+2025-07-07 12:18:46,024 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:46] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:18:46,027 - INFO - Request received at 2025-07-07 12:18:46.027083. Total calls this hour: 21
+2025-07-07 12:18:46,031 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:46.031399
+2025-07-07 12:18:46,032 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:46] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:18:46,083 - INFO - Request received at 2025-07-07 12:18:46.083545. Total calls this hour: 22
+2025-07-07 12:18:46,087 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:18:46.087643
+2025-07-07 12:18:46,088 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:46] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:18:47,536 - INFO - Request received at 2025-07-07 12:18:47.536928. Total calls this hour: 23
+2025-07-07 12:18:47,551 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:18:47.550973
+2025-07-07 12:18:47,551 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:47] "[35m[1mPOST /dashboard/telemetry/accept_telemetry_consent HTTP/1.1[0m" 204 -
+2025-07-07 12:18:47,420 - INFO - Request received at 2025-07-07 12:18:47.420366. Total calls this hour: 24
+2025-07-07 12:18:47,438 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:18:47.438636
+2025-07-07 12:18:47,439 - INFO - 127.0.0.1 - - [07/Jul/2025 12:18:47] "[35m[1mPOST /dashboard/telemetry/accept_telemetry_consent HTTP/1.1[0m" 204 -
+2025-07-07 12:19:40,439 - INFO - Request received at 2025-07-07 12:19:40.438991. Total calls this hour: 25
+2025-07-07 12:19:40,439 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:19:40.439953
+2025-07-07 12:19:40,440 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:40] "GET /dashboard/static/pages/reporting.html HTTP/1.1" 200 -
+2025-07-07 12:19:43,963 - INFO - Request received at 2025-07-07 12:19:43.963143. Total calls this hour: 26
+2025-07-07 12:19:44,748 - INFO - Request completed in 0.79 seconds at 2025-07-07 12:19:44.748707
+2025-07-07 12:19:44,749 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:44] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2025-07-07 12:19:47,741 - INFO - Request received at 2025-07-07 12:19:47.741200. Total calls this hour: 27
+2025-07-07 12:19:47,744 - INFO - Request received at 2025-07-07 12:19:47.744752. Total calls this hour: 28
+2025-07-07 12:19:48,022 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:19:48.022697
+2025-07-07 12:19:48,023 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:48] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:19:48,041 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:19:48.041105
+2025-07-07 12:19:48,041 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:48] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:19:48,053 - INFO - Request received at 2025-07-07 12:19:48.053244. Total calls this hour: 29
+2025-07-07 12:19:48,267 - INFO - Request received at 2025-07-07 12:19:48.267747. Total calls this hour: 30
+2025-07-07 12:19:48,333 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:19:48.333587
+2025-07-07 12:19:48,334 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:48] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:19:48,563 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:19:48.563745
+2025-07-07 12:19:48,564 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:48] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:19:49,058 - INFO - Request received at 2025-07-07 12:19:49.058774. Total calls this hour: 31
+2025-07-07 12:19:49,066 - INFO - Request received at 2025-07-07 12:19:49.066787. Total calls this hour: 32
+2025-07-07 12:19:49,068 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:19:49.068834
+2025-07-07 12:19:49,069 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:49] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:19:49,081 - INFO - Request received at 2025-07-07 12:19:49.081283. Total calls this hour: 33
+2025-07-07 12:19:49,363 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:19:49.363315
+2025-07-07 12:19:49,364 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:49] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:19:49,377 - INFO - Request completed in 0.32 seconds at 2025-07-07 12:19:49.377718
+2025-07-07 12:19:49,378 - INFO - 127.0.0.1 - - [07/Jul/2025 12:19:49] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:21:36,153 - INFO - Request received at 2025-07-07 12:21:36.153649. Total calls this hour: 34
+2025-07-07 12:21:36,153 - INFO - Index function called at 2025-07-07 12:21:36.153962
+2025-07-07 12:21:36,890 - INFO - Index function completed in 0.74 seconds at 2025-07-07 12:21:36.890207
+2025-07-07 12:21:36,890 - INFO - Request completed in 0.74 seconds at 2025-07-07 12:21:36.890607
+2025-07-07 12:21:36,891 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:36] "POST / HTTP/1.1" 200 -
+2025-07-07 12:21:40,413 - INFO - Request received at 2025-07-07 12:21:40.412984. Total calls this hour: 35
+2025-07-07 12:21:40,413 - INFO - Index function called at 2025-07-07 12:21:40.413270
+2025-07-07 12:21:40,581 - INFO - Index function completed in 0.17 seconds at 2025-07-07 12:21:40.580920
+2025-07-07 12:21:40,581 - INFO - Request completed in 0.17 seconds at 2025-07-07 12:21:40.581569
+2025-07-07 12:21:40,582 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:40] "POST / HTTP/1.1" 200 -
+2025-07-07 12:21:43,040 - INFO - Request received at 2025-07-07 12:21:43.040874. Total calls this hour: 36
+2025-07-07 12:21:43,041 - INFO - Index function called at 2025-07-07 12:21:43.041252
+2025-07-07 12:21:43,236 - INFO - Index function completed in 0.20 seconds at 2025-07-07 12:21:43.236532
+2025-07-07 12:21:43,237 - INFO - Request completed in 0.20 seconds at 2025-07-07 12:21:43.237126
+2025-07-07 12:21:43,237 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:43] "POST / HTTP/1.1" 200 -
+2025-07-07 12:21:45,100 - INFO - Request received at 2025-07-07 12:21:45.100090. Total calls this hour: 37
+2025-07-07 12:21:45,100 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.100940
+2025-07-07 12:21:45,101 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:21:45,298 - INFO - Request received at 2025-07-07 12:21:45.298209. Total calls this hour: 38
+2025-07-07 12:21:45,299 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.299068
+2025-07-07 12:21:45,299 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,312 - INFO - Request received at 2025-07-07 12:21:45.312042. Total calls this hour: 39
+2025-07-07 12:21:45,313 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.312978
+2025-07-07 12:21:45,313 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,723 - INFO - Request received at 2025-07-07 12:21:45.723020. Total calls this hour: 40
+2025-07-07 12:21:45,725 - INFO - Request received at 2025-07-07 12:21:45.725761. Total calls this hour: 41
+2025-07-07 12:21:45,726 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.726950
+2025-07-07 12:21:45,727 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.727600
+2025-07-07 12:21:45,728 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,728 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,734 - INFO - Request received at 2025-07-07 12:21:45.734230. Total calls this hour: 42
+2025-07-07 12:21:45,735 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.735141
+2025-07-07 12:21:45,735 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,780 - INFO - Request received at 2025-07-07 12:21:45.780415. Total calls this hour: 43
+2025-07-07 12:21:45,804 - INFO - Request received at 2025-07-07 12:21:45.803969. Total calls this hour: 44
+2025-07-07 12:21:45,806 - INFO - Request received at 2025-07-07 12:21:45.806574. Total calls this hour: 45
+2025-07-07 12:21:45,809 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:21:45.809137
+2025-07-07 12:21:45,809 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:21:45,831 - INFO - Request received at 2025-07-07 12:21:45.831736. Total calls this hour: 46
+2025-07-07 12:21:45,835 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:21:45.835724
+2025-07-07 12:21:45,836 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:45] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:21:45,906 - INFO - Request received at 2025-07-07 12:21:45.906417. Total calls this hour: 47
+2025-07-07 12:21:46,104 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:21:46.104255
+2025-07-07 12:21:46,105 - INFO - Request completed in 0.32 seconds at 2025-07-07 12:21:46.105151
+2025-07-07 12:21:46,105 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:46] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:21:46,106 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:46] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:21:46,195 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:21:46.195492
+2025-07-07 12:21:46,196 - INFO - 127.0.0.1 - - [07/Jul/2025 12:21:46] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:22:18,892 - INFO - Request received at 2025-07-07 12:22:18.892341. Total calls this hour: 48
+2025-07-07 12:22:18,893 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:22:18.893427
+2025-07-07 12:22:18,893 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:18] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:22:18,938 - INFO - Request received at 2025-07-07 12:22:18.937988. Total calls this hour: 49
+2025-07-07 12:22:18,939 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:22:18.939289
+2025-07-07 12:22:18,940 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:18] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:22:18,941 - INFO - Request received at 2025-07-07 12:22:18.941571. Total calls this hour: 50
+2025-07-07 12:22:18,963 - INFO - Request received at 2025-07-07 12:22:18.963740. Total calls this hour: 51
+2025-07-07 12:22:18,964 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:22:18.964572
+2025-07-07 12:22:18,965 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:18] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:22:19,238 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:22:19.238511
+2025-07-07 12:22:19,239 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:19] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:22:24,510 - INFO - Request received at 2025-07-07 12:22:24.510892. Total calls this hour: 52
+2025-07-07 12:22:23,502 - INFO - Request completed in -1.01 seconds at 2025-07-07 12:22:23.502833
+2025-07-07 12:22:23,503 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:23] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:22:27,723 - INFO - Request received at 2025-07-07 12:22:27.723685. Total calls this hour: 53
+2025-07-07 12:22:27,733 - INFO - Request received at 2025-07-07 12:22:27.733640. Total calls this hour: 54
+2025-07-07 12:22:27,737 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:22:27.737765
+2025-07-07 12:22:27,738 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:27] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:22:27,744 - INFO - Request received at 2025-07-07 12:22:27.744232. Total calls this hour: 55
+2025-07-07 12:22:28,023 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:22:28.023221
+2025-07-07 12:22:28,023 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:28] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:22:28,060 - INFO - Request completed in 0.34 seconds at 2025-07-07 12:22:28.060303
+2025-07-07 12:22:28,061 - INFO - 127.0.0.1 - - [07/Jul/2025 12:22:28] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:25:18,889 - INFO -  * Detected change in '/home/pault/Rennes_traffic/app.py', reloading
+2025-07-07 12:25:18,890 - INFO - Scheduler has been shut down
+2025-07-07 12:25:21,587 - INFO - Scheduler has been shut down
+2025-07-07 12:25:37,650 - INFO - Starting Flask application...
+2025-07-07 12:25:37,656 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 12:25:37,656 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 12:25:37,657 - INFO -  * Restarting with stat
+2025-07-07 12:25:50,465 - INFO - Starting Flask application...
+2025-07-07 12:25:50,470 - WARNING -  * Debugger is active!
+2025-07-07 12:25:50,470 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:25:50,509 - INFO - Request received at 2025-07-07 12:25:50.509854. Total calls: 1
+2025-07-07 12:25:50,530 - INFO - 127.0.0.1 - - [07/Jul/2025 12:25:50] "[35m[1mGET /dashboard/overview HTTP/1.1[0m" 500 -
+2025-07-07 12:25:50,590 - INFO - 127.0.0.1 - - [07/Jul/2025 12:25:50] "GET /dashboard/overview?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-07 12:25:50,591 - INFO - 127.0.0.1 - - [07/Jul/2025 12:25:50] "GET /dashboard/overview?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-07 12:25:50,636 - INFO - 127.0.0.1 - - [07/Jul/2025 12:25:50] "GET /dashboard/overview?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-07 12:25:50,640 - INFO - 127.0.0.1 - - [07/Jul/2025 12:25:50] "GET /dashboard/overview?__debugger__=yes&cmd=resource&f=console.png&s=6Nbkl848uEB6Ar1ypHmS HTTP/1.1" 200 -
+2025-07-07 12:29:21,530 - INFO -  * Detected change in '/home/pault/Rennes_traffic/app.py', reloading
+2025-07-07 12:29:21,531 - INFO - Scheduler has been shut down
+2025-07-07 12:29:24,066 - INFO -  * Restarting with stat
+2025-07-07 12:29:37,116 - WARNING -  * Debugger is active!
+2025-07-07 12:29:37,117 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:29:37,189 - INFO - Request received at 2025-07-07 12:29:37.189118. Total calls this hour: 1
+2025-07-07 12:29:37,200 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:37.200615
+2025-07-07 12:29:37,202 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:29:37,307 - INFO - Request received at 2025-07-07 12:29:37.307449. Total calls this hour: 2
+2025-07-07 12:29:37,315 - INFO - Request received at 2025-07-07 12:29:37.315060. Total calls this hour: 3
+2025-07-07 12:29:37,319 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:37.319483
+2025-07-07 12:29:37,324 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:37.323970
+2025-07-07 12:29:37,324 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:29:37,325 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:29:37,370 - INFO - Request received at 2025-07-07 12:29:37.370712. Total calls this hour: 4
+2025-07-07 12:29:37,371 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:37.371699
+2025-07-07 12:29:37,372 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2025-07-07 12:29:38,372 - INFO - Request received at 2025-07-07 12:29:38.372743. Total calls this hour: 5
+2025-07-07 12:29:38,374 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:38.374254
+2025-07-07 12:29:38,374 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:38] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:38,379 - INFO - Request received at 2025-07-07 12:29:38.379328. Total calls this hour: 6
+2025-07-07 12:29:38,380 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:38.380919
+2025-07-07 12:29:38,381 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:38] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:38,385 - INFO - Request received at 2025-07-07 12:29:38.385426. Total calls this hour: 7
+2025-07-07 12:29:38,386 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:38.386953
+2025-07-07 12:29:38,387 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:38] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:38,414 - INFO - Request received at 2025-07-07 12:29:38.414386. Total calls this hour: 8
+2025-07-07 12:29:38,417 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:38.417761
+2025-07-07 12:29:38,418 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:38] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:29:37,163 - INFO - Request received at 2025-07-07 12:29:37.163111. Total calls this hour: 9
+2025-07-07 12:29:37,164 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:37.164041
+2025-07-07 12:29:37,164 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:37,168 - INFO - Request received at 2025-07-07 12:29:37.168918. Total calls this hour: 10
+2025-07-07 12:29:37,198 - INFO - Request received at 2025-07-07 12:29:37.198736. Total calls this hour: 11
+2025-07-07 12:29:37,201 - INFO - Request received at 2025-07-07 12:29:37.201959. Total calls this hour: 12
+2025-07-07 12:29:37,209 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:37.209072
+2025-07-07 12:29:37,209 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:29:37,938 - INFO - Request completed in 0.74 seconds at 2025-07-07 12:29:37.938716
+2025-07-07 12:29:37,939 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:37] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:29:38,233 - INFO - Request completed in 1.06 seconds at 2025-07-07 12:29:38.233595
+2025-07-07 12:29:38,234 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:38] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:29:39,675 - INFO - Request received at 2025-07-07 12:29:39.675005. Total calls this hour: 13
+2025-07-07 12:29:39,676 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:39.676033
+2025-07-07 12:29:39,676 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:39] "GET /dashboard/static/pages/plotly_graph.html HTTP/1.1" 200 -
+2025-07-07 12:29:39,702 - INFO - Request received at 2025-07-07 12:29:39.702108. Total calls this hour: 14
+2025-07-07 12:29:39,703 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:39.703102
+2025-07-07 12:29:39,703 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:39] "GET /dashboard/static/elements/endpointDetails.html HTTP/1.1" 200 -
+2025-07-07 12:29:39,708 - INFO - Request received at 2025-07-07 12:29:39.708683. Total calls this hour: 15
+2025-07-07 12:29:39,731 - INFO - Request received at 2025-07-07 12:29:39.731477. Total calls this hour: 16
+2025-07-07 12:29:39,732 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:39.732398
+2025-07-07 12:29:39,732 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:39] "GET /dashboard/static/elements/monitorLevel.html HTTP/1.1" 200 -
+2025-07-07 12:29:40,016 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:29:40.016762
+2025-07-07 12:29:40,017 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:40] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:29:40,128 - INFO - Request received at 2025-07-07 12:29:40.128671. Total calls this hour: 17
+2025-07-07 12:29:40,134 - INFO - Request received at 2025-07-07 12:29:40.134388. Total calls this hour: 18
+2025-07-07 12:29:40,140 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:40.140111
+2025-07-07 12:29:40,140 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:40] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:29:40,153 - INFO - Request received at 2025-07-07 12:29:40.153544. Total calls this hour: 19
+2025-07-07 12:29:40,424 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:29:40.424552
+2025-07-07 12:29:40,425 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:40] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:29:40,433 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:29:40.432958
+2025-07-07 12:29:40,433 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:40] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:29:47,261 - INFO - Request received at 2025-07-07 12:29:47.261658. Total calls this hour: 20
+2025-07-07 12:29:47,262 - INFO - Index function called at 2025-07-07 12:29:47.262072
+2025-07-07 12:29:48,221 - INFO - Index function completed in 0.96 seconds at 2025-07-07 12:29:48.221740
+2025-07-07 12:29:48,222 - INFO - Request completed in 0.96 seconds at 2025-07-07 12:29:48.222191
+2025-07-07 12:29:48,222 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:48] "POST / HTTP/1.1" 200 -
+2025-07-07 12:29:51,128 - INFO - Request received at 2025-07-07 12:29:51.128597. Total calls this hour: 21
+2025-07-07 12:29:51,129 - INFO - Index function called at 2025-07-07 12:29:51.129263
+2025-07-07 12:29:51,294 - INFO - Index function completed in 0.17 seconds at 2025-07-07 12:29:51.294703
+2025-07-07 12:29:51,295 - INFO - Request completed in 0.17 seconds at 2025-07-07 12:29:51.295238
+2025-07-07 12:29:51,295 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:51] "POST / HTTP/1.1" 200 -
+2025-07-07 12:29:53,520 - INFO - Request received at 2025-07-07 12:29:53.520280. Total calls this hour: 22
+2025-07-07 12:29:53,521 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.521310
+2025-07-07 12:29:53,521 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:29:53,572 - INFO - Request received at 2025-07-07 12:29:53.572308. Total calls this hour: 23
+2025-07-07 12:29:53,574 - INFO - Request received at 2025-07-07 12:29:53.574202. Total calls this hour: 24
+2025-07-07 12:29:53,575 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.575133
+2025-07-07 12:29:53,576 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.576103
+2025-07-07 12:29:53,576 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,577 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,903 - INFO - Request received at 2025-07-07 12:29:53.903573. Total calls this hour: 25
+2025-07-07 12:29:53,904 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.904360
+2025-07-07 12:29:53,904 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,910 - INFO - Request received at 2025-07-07 12:29:53.909985. Total calls this hour: 26
+2025-07-07 12:29:53,912 - INFO - Request received at 2025-07-07 12:29:53.912118. Total calls this hour: 27
+2025-07-07 12:29:53,913 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.913511
+2025-07-07 12:29:53,914 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:53.914012
+2025-07-07 12:29:53,914 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,915 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,941 - INFO - Request received at 2025-07-07 12:29:53.941475. Total calls this hour: 28
+2025-07-07 12:29:53,969 - INFO - Request received at 2025-07-07 12:29:53.969482. Total calls this hour: 29
+2025-07-07 12:29:53,976 - INFO - Request received at 2025-07-07 12:29:53.976078. Total calls this hour: 30
+2025-07-07 12:29:53,976 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:29:53.976654
+2025-07-07 12:29:53,980 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:53] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:53,996 - INFO - Request received at 2025-07-07 12:29:53.996175. Total calls this hour: 31
+2025-07-07 12:29:54,011 - INFO - Request received at 2025-07-07 12:29:54.011638. Total calls this hour: 32
+2025-07-07 12:29:54,014 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:54.014039
+2025-07-07 12:29:54,014 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:54] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:29:54,265 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:29:54.265388
+2025-07-07 12:29:54,265 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:54] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:29:54,293 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:29:54.293884
+2025-07-07 12:29:54,294 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:54] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:29:54,298 - INFO - Request completed in 0.36 seconds at 2025-07-07 12:29:54.298489
+2025-07-07 12:29:54,299 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:54] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:29:55,504 - INFO - Request received at 2025-07-07 12:29:55.504002. Total calls this hour: 33
+2025-07-07 12:29:55,505 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:55.505217
+2025-07-07 12:29:55,505 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:55] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:55,533 - INFO - Request received at 2025-07-07 12:29:55.533673. Total calls this hour: 34
+2025-07-07 12:29:55,534 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:55.534830
+2025-07-07 12:29:55,535 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:55] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:55,538 - INFO - Request received at 2025-07-07 12:29:55.538157. Total calls this hour: 35
+2025-07-07 12:29:55,559 - INFO - Request received at 2025-07-07 12:29:55.559469. Total calls this hour: 36
+2025-07-07 12:29:55,560 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:29:55.560417
+2025-07-07 12:29:55,560 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:55] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:29:55,841 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:29:55.841428
+2025-07-07 12:29:55,842 - INFO - 127.0.0.1 - - [07/Jul/2025 12:29:55] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:35:43,181 - INFO - Request received at 2025-07-07 12:35:43.181486. Total calls this hour: 37
+2025-07-07 12:35:43,191 - INFO - Request received at 2025-07-07 12:35:43.191060. Total calls this hour: 38
+2025-07-07 12:35:43,467 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:35:43.467677
+2025-07-07 12:35:43,468 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:43] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:35:43,472 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:35:43.472012
+2025-07-07 12:35:43,472 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:43] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:35:43,485 - INFO - Request received at 2025-07-07 12:35:43.485251. Total calls this hour: 39
+2025-07-07 12:35:43,823 - INFO - Request completed in 0.34 seconds at 2025-07-07 12:35:43.823475
+2025-07-07 12:35:43,824 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:43] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:35:43,944 - INFO - Request received at 2025-07-07 12:35:43.944530. Total calls this hour: 40
+2025-07-07 12:35:44,244 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:35:44.244270
+2025-07-07 12:35:44,245 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:44] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:35:45,896 - INFO - Request received at 2025-07-07 12:35:45.896283. Total calls this hour: 41
+2025-07-07 12:35:46,207 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:35:46.207748
+2025-07-07 12:35:46,208 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:46] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:35:47,465 - INFO - Request received at 2025-07-07 12:35:47.465898. Total calls this hour: 42
+2025-07-07 12:35:47,766 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:35:47.766265
+2025-07-07 12:35:47,767 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:47] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:35:49,088 - INFO - Request received at 2025-07-07 12:35:49.088134. Total calls this hour: 43
+2025-07-07 12:35:49,394 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:35:49.394551
+2025-07-07 12:35:49,395 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:49] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:35:49,410 - INFO - Request received at 2025-07-07 12:35:49.410696. Total calls this hour: 44
+2025-07-07 12:35:49,687 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:35:49.687899
+2025-07-07 12:35:49,688 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:49] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:35:54,028 - INFO - Request received at 2025-07-07 12:35:54.028745. Total calls this hour: 45
+2025-07-07 12:35:54,339 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:35:54.339186
+2025-07-07 12:35:54,339 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:54] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:35:57,147 - INFO - Request received at 2025-07-07 12:35:57.147610. Total calls this hour: 46
+2025-07-07 12:35:57,148 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:35:57.148849
+2025-07-07 12:35:57,149 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:57] "GET /dashboard/static/pages/reporting.html HTTP/1.1" 200 -
+2025-07-07 12:35:57,553 - INFO - Request received at 2025-07-07 12:35:57.553424. Total calls this hour: 47
+2025-07-07 12:35:57,852 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:35:57.852540
+2025-07-07 12:35:57,853 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:57] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:35:57,897 - INFO - Request received at 2025-07-07 12:35:57.897896. Total calls this hour: 48
+2025-07-07 12:35:58,175 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:35:58.175150
+2025-07-07 12:35:58,175 - INFO - 127.0.0.1 - - [07/Jul/2025 12:35:58] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:36:16,028 - INFO -  * Detected change in '/home/pault/Rennes_traffic/app.py', reloading
+2025-07-07 12:36:16,030 - INFO - Scheduler has been shut down
+2025-07-07 12:36:18,810 - INFO -  * Restarting with stat
+2025-07-07 12:36:30,933 - INFO - Scheduler started
+2025-07-07 12:36:31,009 - WARNING -  * Debugger is active!
+2025-07-07 12:36:31,010 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:36:31,055 - INFO - Request received at 2025-07-07 12:36:31.055246. Total calls this hour: 1
+2025-07-07 12:36:31,055 - INFO - Index function called at 2025-07-07 12:36:31.055584
+2025-07-07 12:36:31,820 - INFO - Index function completed in 0.76 seconds at 2025-07-07 12:36:31.820568
+2025-07-07 12:36:31,826 - INFO - Request completed in 0.77 seconds at 2025-07-07 12:36:31.826340
+2025-07-07 12:36:31,827 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:31] "POST / HTTP/1.1" 200 -
+2025-07-07 12:36:37,227 - INFO - Request received at 2025-07-07 12:36:37.227147. Total calls this hour: 2
+2025-07-07 12:36:37,227 - INFO - Index function called at 2025-07-07 12:36:37.227582
+2025-07-07 12:36:37,404 - INFO - Index function completed in 0.18 seconds at 2025-07-07 12:36:37.404067
+2025-07-07 12:36:37,405 - INFO - Request completed in 0.18 seconds at 2025-07-07 12:36:37.405938
+2025-07-07 12:36:37,406 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:37] "POST / HTTP/1.1" 200 -
+2025-07-07 12:36:41,365 - INFO - Request received at 2025-07-07 12:36:41.365564. Total calls this hour: 3
+2025-07-07 12:36:41,372 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:41.372031
+2025-07-07 12:36:41,373 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "GET /dashboard/api_performance HTTP/1.1" 200 -
+2025-07-07 12:36:41,414 - INFO - Request received at 2025-07-07 12:36:41.414812. Total calls this hour: 4
+2025-07-07 12:36:41,417 - INFO - Request received at 2025-07-07 12:36:41.417482. Total calls this hour: 5
+2025-07-07 12:36:41,424 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:41.424266
+2025-07-07 12:36:41,424 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:36:41,431 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:36:41.431102
+2025-07-07 12:36:41,431 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:36:41,969 - INFO - Request received at 2025-07-07 12:36:41.969936. Total calls this hour: 6
+2025-07-07 12:36:41,971 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:41.971002
+2025-07-07 12:36:41,971 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:41,973 - INFO - Request received at 2025-07-07 12:36:41.973349. Total calls this hour: 7
+2025-07-07 12:36:41,976 - INFO - Request received at 2025-07-07 12:36:41.976303. Total calls this hour: 8
+2025-07-07 12:36:41,977 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:41.977216
+2025-07-07 12:36:41,977 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:41,978 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:41.978602
+2025-07-07 12:36:41,979 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:41] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:42,024 - INFO - Request received at 2025-07-07 12:36:42.024314. Total calls this hour: 9
+2025-07-07 12:36:42,027 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:42.027471
+2025-07-07 12:36:42,028 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:42] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:36:42,058 - INFO - Request received at 2025-07-07 12:36:42.058170. Total calls this hour: 10
+2025-07-07 12:36:42,059 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:42.059273
+2025-07-07 12:36:42,059 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:42] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:42,063 - INFO - Request received at 2025-07-07 12:36:42.063829. Total calls this hour: 11
+2025-07-07 12:36:42,066 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:42.065988
+2025-07-07 12:36:42,066 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:42] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:36:42,087 - INFO - Request received at 2025-07-07 12:36:42.087163. Total calls this hour: 12
+2025-07-07 12:36:42,088 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:42.088767
+2025-07-07 12:36:42,089 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:42] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:42,092 - INFO - Request received at 2025-07-07 12:36:42.092904. Total calls this hour: 13
+2025-07-07 12:36:42,099 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:42.099187
+2025-07-07 12:36:42,099 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:42] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:36:44,212 - INFO - Request received at 2025-07-07 12:36:44.212279. Total calls this hour: 14
+2025-07-07 12:36:44,229 - INFO - Request completed in 0.02 seconds at 2025-07-07 12:36:44.229595
+2025-07-07 12:36:44,230 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:44] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:36:44,899 - INFO - Request received at 2025-07-07 12:36:44.899466. Total calls this hour: 15
+2025-07-07 12:36:44,904 - INFO - Request received at 2025-07-07 12:36:44.904518. Total calls this hour: 16
+2025-07-07 12:36:44,906 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:44.906318
+2025-07-07 12:36:44,907 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:44] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:36:44,908 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:44.908495
+2025-07-07 12:36:44,909 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:44] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:36:44,934 - INFO - Request received at 2025-07-07 12:36:44.934082. Total calls this hour: 17
+2025-07-07 12:36:44,940 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:44.940467
+2025-07-07 12:36:44,941 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:44] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:36:45,433 - INFO - Request received at 2025-07-07 12:36:45.433837. Total calls this hour: 18
+2025-07-07 12:36:45,438 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:45.438318
+2025-07-07 12:36:45,438 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:45] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:36:45,763 - INFO - Request received at 2025-07-07 12:36:45.763288. Total calls this hour: 19
+2025-07-07 12:36:45,764 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:45.764233
+2025-07-07 12:36:45,764 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:45] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:45,785 - INFO - Request received at 2025-07-07 12:36:45.785298. Total calls this hour: 20
+2025-07-07 12:36:45,786 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:45.786072
+2025-07-07 12:36:45,786 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:45] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:36:45,796 - INFO - Request received at 2025-07-07 12:36:45.796271. Total calls this hour: 21
+2025-07-07 12:36:45,809 - INFO - Request received at 2025-07-07 12:36:45.809099. Total calls this hour: 22
+2025-07-07 12:36:45,818 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:36:45.818413
+2025-07-07 12:36:45,819 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:45] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:36:45,877 - INFO - Request received at 2025-07-07 12:36:45.877844. Total calls this hour: 23
+2025-07-07 12:36:46,550 - INFO - Request completed in 0.67 seconds at 2025-07-07 12:36:46.550828
+2025-07-07 12:36:46,551 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:46] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:36:46,864 - INFO - Request completed in 1.07 seconds at 2025-07-07 12:36:46.864818
+2025-07-07 12:36:46,865 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:46] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:36:54,743 - INFO - Request received at 2025-07-07 12:36:54.743559. Total calls this hour: 24
+2025-07-07 12:36:55,029 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:36:55.029589
+2025-07-07 12:36:55,030 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:55] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:36:57,500 - INFO - Request received at 2025-07-07 12:36:57.500467. Total calls this hour: 25
+2025-07-07 12:36:57,514 - INFO - Request received at 2025-07-07 12:36:57.514475. Total calls this hour: 26
+2025-07-07 12:36:57,517 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:36:57.517457
+2025-07-07 12:36:57,518 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:57] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:36:57,532 - INFO - Request received at 2025-07-07 12:36:57.532030. Total calls this hour: 27
+2025-07-07 12:36:57,809 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:36:57.809188
+2025-07-07 12:36:57,810 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:57] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:36:57,811 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:36:57.811386
+2025-07-07 12:36:57,812 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:57] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:36:59,075 - INFO - Request received at 2025-07-07 12:36:59.075702. Total calls this hour: 28
+2025-07-07 12:36:59,359 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:36:59.359000
+2025-07-07 12:36:59,359 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:59] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:36:59,369 - INFO - Request received at 2025-07-07 12:36:59.369327. Total calls this hour: 29
+2025-07-07 12:36:59,648 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:36:59.648901
+2025-07-07 12:36:59,649 - INFO - 127.0.0.1 - - [07/Jul/2025 12:36:59] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:37:01,357 - INFO - Request received at 2025-07-07 12:37:01.357639. Total calls this hour: 30
+2025-07-07 12:37:01,683 - INFO - Request completed in 0.33 seconds at 2025-07-07 12:37:01.683669
+2025-07-07 12:37:01,684 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:01] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:37:01,691 - INFO - Request received at 2025-07-07 12:37:01.691344. Total calls this hour: 31
+2025-07-07 12:37:01,695 - INFO - Request received at 2025-07-07 12:37:01.695942. Total calls this hour: 32
+2025-07-07 12:37:01,988 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:37:01.988344
+2025-07-07 12:37:01,989 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:37:01.989344
+2025-07-07 12:37:01,990 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:01] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:37:01,990 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:01] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:37:02,000 - INFO - Request received at 2025-07-07 12:37:02.000822. Total calls this hour: 33
+2025-07-07 12:37:02,075 - INFO - Request received at 2025-07-07 12:37:02.074993. Total calls this hour: 34
+2025-07-07 12:37:02,284 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:02.284749
+2025-07-07 12:37:02,285 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:02] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:37:02,373 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:37:02.373592
+2025-07-07 12:37:02,374 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:02] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:37:02,463 - INFO - Request received at 2025-07-07 12:37:02.463417. Total calls this hour: 35
+2025-07-07 12:37:02,469 - INFO - Request received at 2025-07-07 12:37:02.469669. Total calls this hour: 36
+2025-07-07 12:37:02,472 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:02.472202
+2025-07-07 12:37:02,472 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:02] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:37:02,485 - INFO - Request received at 2025-07-07 12:37:02.485085. Total calls this hour: 37
+2025-07-07 12:37:02,748 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:02.748153
+2025-07-07 12:37:02,748 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:02] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:37:02,766 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:02.766620
+2025-07-07 12:37:02,767 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:02] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:37:12,046 - INFO - Request received at 2025-07-07 12:37:12.046370. Total calls this hour: 38
+2025-07-07 12:37:12,364 - INFO - Request completed in 0.32 seconds at 2025-07-07 12:37:12.364772
+2025-07-07 12:37:12,365 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:12] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:37:12,864 - INFO - Request received at 2025-07-07 12:37:12.864885. Total calls this hour: 39
+2025-07-07 12:37:13,138 - INFO - Request completed in 0.27 seconds at 2025-07-07 12:37:13.138406
+2025-07-07 12:37:13,139 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:13] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:37:13,151 - INFO - Request received at 2025-07-07 12:37:13.151004. Total calls this hour: 40
+2025-07-07 12:37:13,426 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:13.426221
+2025-07-07 12:37:13,426 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:13] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:37:16,720 - INFO - Request received at 2025-07-07 12:37:16.719971. Total calls this hour: 41
+2025-07-07 12:37:16,720 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:16.720846
+2025-07-07 12:37:16,721 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:16] "[36mGET /dashboard/static/pages/reporting.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:17,796 - INFO - Request received at 2025-07-07 12:37:17.796766. Total calls this hour: 42
+2025-07-07 12:37:18,073 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:18.073228
+2025-07-07 12:37:18,073 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:18] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:37:18,089 - INFO - Request received at 2025-07-07 12:37:18.089804. Total calls this hour: 43
+2025-07-07 12:37:18,367 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:18.367076
+2025-07-07 12:37:18,367 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:18] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:37:18,373 - INFO - Request received at 2025-07-07 12:37:18.373594. Total calls this hour: 44
+2025-07-07 12:37:18,664 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:37:18.664371
+2025-07-07 12:37:18,664 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:18] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:37:20,344 - INFO - Request received at 2025-07-07 12:37:20.344696. Total calls this hour: 45
+2025-07-07 12:37:20,352 - INFO - Request received at 2025-07-07 12:37:20.352504. Total calls this hour: 46
+2025-07-07 12:37:20,355 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:20.355631
+2025-07-07 12:37:20,356 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:20] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:37:20,363 - INFO - Request received at 2025-07-07 12:37:20.363375. Total calls this hour: 47
+2025-07-07 12:37:20,672 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:37:20.672655
+2025-07-07 12:37:20,673 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:20] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:37:20,678 - INFO - Request completed in 0.33 seconds at 2025-07-07 12:37:20.678394
+2025-07-07 12:37:20,679 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:20] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:37:27,088 - INFO - Request received at 2025-07-07 12:37:27.088198. Total calls this hour: 48
+2025-07-07 12:37:27,089 - INFO - Index function called at 2025-07-07 12:37:27.089227
+2025-07-07 12:37:27,267 - INFO - Index function completed in 0.18 seconds at 2025-07-07 12:37:27.267424
+2025-07-07 12:37:27,269 - INFO - Request completed in 0.18 seconds at 2025-07-07 12:37:27.269547
+2025-07-07 12:37:27,270 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:27] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:29,579 - INFO - Request received at 2025-07-07 12:37:29.578858. Total calls this hour: 49
+2025-07-07 12:37:29,579 - INFO - Index function called at 2025-07-07 12:37:29.579655
+2025-07-07 12:37:29,734 - INFO - Index function completed in 0.15 seconds at 2025-07-07 12:37:29.734408
+2025-07-07 12:37:29,736 - INFO - Request completed in 0.16 seconds at 2025-07-07 12:37:29.736659
+2025-07-07 12:37:29,737 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:29] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:32,062 - INFO - Request received at 2025-07-07 12:37:32.062631. Total calls this hour: 50
+2025-07-07 12:37:32,062 - INFO - Index function called at 2025-07-07 12:37:32.062932
+2025-07-07 12:37:32,215 - INFO - Index function completed in 0.15 seconds at 2025-07-07 12:37:32.215454
+2025-07-07 12:37:32,217 - INFO - Request completed in 0.15 seconds at 2025-07-07 12:37:32.217314
+2025-07-07 12:37:32,218 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:32] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:34,277 - INFO - Request received at 2025-07-07 12:37:34.277365. Total calls this hour: 51
+2025-07-07 12:37:34,278 - INFO - Index function called at 2025-07-07 12:37:34.278115
+2025-07-07 12:37:34,531 - INFO - Index function completed in 0.25 seconds at 2025-07-07 12:37:34.531074
+2025-07-07 12:37:34,533 - INFO - Request completed in 0.26 seconds at 2025-07-07 12:37:34.533272
+2025-07-07 12:37:34,533 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:34] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:36,434 - INFO - Request received at 2025-07-07 12:37:36.434721. Total calls this hour: 52
+2025-07-07 12:37:36,435 - INFO - Index function called at 2025-07-07 12:37:36.435069
+2025-07-07 12:37:36,592 - INFO - Index function completed in 0.16 seconds at 2025-07-07 12:37:36.592489
+2025-07-07 12:37:36,594 - INFO - Request completed in 0.16 seconds at 2025-07-07 12:37:36.594792
+2025-07-07 12:37:36,595 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:36] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:39,007 - INFO - Request received at 2025-07-07 12:37:39.007418. Total calls this hour: 53
+2025-07-07 12:37:39,007 - INFO - Index function called at 2025-07-07 12:37:39.007758
+2025-07-07 12:37:39,181 - INFO - Index function completed in 0.17 seconds at 2025-07-07 12:37:39.181320
+2025-07-07 12:37:39,183 - INFO - Request completed in 0.18 seconds at 2025-07-07 12:37:39.183892
+2025-07-07 12:37:39,184 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:39] "POST / HTTP/1.1" 200 -
+2025-07-07 12:37:44,822 - INFO - Request received at 2025-07-07 12:37:44.822608. Total calls this hour: 54
+2025-07-07 12:37:44,823 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:44.823532
+2025-07-07 12:37:44,824 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:44] "GET /dashboard/overview HTTP/1.1" 200 -
+2025-07-07 12:37:44,870 - INFO - Request received at 2025-07-07 12:37:44.870478. Total calls this hour: 55
+2025-07-07 12:37:44,871 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:44.871821
+2025-07-07 12:37:44,873 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:44] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:37:44,874 - INFO - Request received at 2025-07-07 12:37:44.874389. Total calls this hour: 56
+2025-07-07 12:37:44,875 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:44.875779
+2025-07-07 12:37:44,876 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:44] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:37:45,319 - INFO - Request received at 2025-07-07 12:37:45.319202. Total calls this hour: 57
+2025-07-07 12:37:45,320 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.320346
+2025-07-07 12:37:45,320 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:45,330 - INFO - Request received at 2025-07-07 12:37:45.330210. Total calls this hour: 58
+2025-07-07 12:37:45,332 - INFO - Request received at 2025-07-07 12:37:45.332814. Total calls this hour: 59
+2025-07-07 12:37:45,333 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.333760
+2025-07-07 12:37:45,334 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.334729
+2025-07-07 12:37:45,335 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:45,336 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:45,427 - INFO - Request received at 2025-07-07 12:37:45.426958. Total calls this hour: 60
+2025-07-07 12:37:45,454 - INFO - Request received at 2025-07-07 12:37:45.454761. Total calls this hour: 61
+2025-07-07 12:37:45,455 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.455725
+2025-07-07 12:37:45,456 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:45,461 - INFO - Request received at 2025-07-07 12:37:45.461543. Total calls this hour: 62
+2025-07-07 12:37:45,477 - INFO - Request received at 2025-07-07 12:37:45.477656. Total calls this hour: 63
+2025-07-07 12:37:45,482 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.482293
+2025-07-07 12:37:45,483 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:37:45,489 - INFO - Request received at 2025-07-07 12:37:45.489692. Total calls this hour: 64
+2025-07-07 12:37:45,723 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:37:45.723648
+2025-07-07 12:37:45,724 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:37:45,759 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:37:45.759481
+2025-07-07 12:37:45,760 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:37:45,772 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:45.772396
+2025-07-07 12:37:45,773 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:37:45,784 - INFO - Request received at 2025-07-07 12:37:45.784376. Total calls this hour: 65
+2025-07-07 12:37:45,785 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:45.785402
+2025-07-07 12:37:45,785 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:45] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:47,776 - INFO - Request received at 2025-07-07 12:37:47.776096. Total calls this hour: 66
+2025-07-07 12:37:47,777 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:47.777095
+2025-07-07 12:37:47,777 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:47] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:47,799 - INFO - Request received at 2025-07-07 12:37:47.799850. Total calls this hour: 67
+2025-07-07 12:37:47,801 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:37:47.801190
+2025-07-07 12:37:47,802 - INFO - Request received at 2025-07-07 12:37:47.802524. Total calls this hour: 68
+2025-07-07 12:37:47,803 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:47] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:37:47,806 - INFO - Request received at 2025-07-07 12:37:47.806421. Total calls this hour: 69
+2025-07-07 12:37:48,088 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:48.088248
+2025-07-07 12:37:48,093 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:48] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07/1 HTTP/1.1" 200 -
+2025-07-07 12:37:48,094 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:37:48.094483
+2025-07-07 12:37:48,097 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:48] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2025-07-07 12:37:53,635 - INFO - Request received at 2025-07-07 12:37:53.635100. Total calls this hour: 70
+2025-07-07 12:37:53,639 - INFO - Request received at 2025-07-07 12:37:53.639804. Total calls this hour: 71
+2025-07-07 12:37:53,643 - INFO - Request received at 2025-07-07 12:37:53.643644. Total calls this hour: 72
+2025-07-07 12:37:53,911 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:53.911236
+2025-07-07 12:37:53,911 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:53] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2025-07-07 12:37:53,928 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:53.927969
+2025-07-07 12:37:53,928 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:53] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2025-07-07 12:37:53,930 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:37:53.930062
+2025-07-07 12:37:53,930 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:53] "GET /dashboard/api/users/1 HTTP/1.1" 200 -
+2025-07-07 12:37:53,946 - INFO - Request received at 2025-07-07 12:37:53.945964. Total calls this hour: 73
+2025-07-07 12:37:54,233 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:37:54.233463
+2025-07-07 12:37:54,234 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:54] "POST /dashboard/api/version_user/1 HTTP/1.1" 200 -
+2025-07-07 12:37:55,542 - INFO - Request received at 2025-07-07 12:37:55.542334. Total calls this hour: 74
+2025-07-07 12:37:55,548 - INFO - Request received at 2025-07-07 12:37:55.548172. Total calls this hour: 75
+2025-07-07 12:37:55,831 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:37:55.831304
+2025-07-07 12:37:55,832 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:55] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07/1 HTTP/1.1" 200 -
+2025-07-07 12:37:55,840 - INFO - Request completed in 0.30 seconds at 2025-07-07 12:37:55.840515
+2025-07-07 12:37:55,841 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:55] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2025-07-07 12:37:58,507 - INFO - Request received at 2025-07-07 12:37:58.507726. Total calls this hour: 76
+2025-07-07 12:37:58,814 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:37:58.814454
+2025-07-07 12:37:58,815 - INFO - 127.0.0.1 - - [07/Jul/2025 12:37:58] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:38:00,102 - INFO - Request received at 2025-07-07 12:38:00.102186. Total calls this hour: 77
+2025-07-07 12:38:00,107 - INFO - Request received at 2025-07-07 12:38:00.107815. Total calls this hour: 78
+2025-07-07 12:38:00,394 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:38:00.394887
+2025-07-07 12:38:00,396 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:00] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:38:00,398 - INFO - Request completed in 0.29 seconds at 2025-07-07 12:38:00.398951
+2025-07-07 12:38:00,399 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:00] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:38:00,419 - INFO - Request received at 2025-07-07 12:38:00.419813. Total calls this hour: 79
+2025-07-07 12:38:00,704 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:38:00.704216
+2025-07-07 12:38:00,705 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:00] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:38:02,006 - INFO - Request received at 2025-07-07 12:38:02.006470. Total calls this hour: 80
+2025-07-07 12:38:02,320 - INFO - Request completed in 0.31 seconds at 2025-07-07 12:38:02.320173
+2025-07-07 12:38:02,320 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:02] "GET /dashboard/api/requests/2025-06-27/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:38:03,315 - INFO - Request received at 2025-07-07 12:38:03.315675. Total calls this hour: 81
+2025-07-07 12:38:03,597 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:38:03.597818
+2025-07-07 12:38:03,598 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:03] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:38:03,614 - INFO - Request received at 2025-07-07 12:38:03.613943. Total calls this hour: 82
+2025-07-07 12:38:03,891 - INFO - Request completed in 0.28 seconds at 2025-07-07 12:38:03.890994
+2025-07-07 12:38:03,891 - INFO - 127.0.0.1 - - [07/Jul/2025 12:38:03] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:44:30,919 - INFO - Scheduler has been shut down
+2025-07-07 12:44:31,168 - INFO - Scheduler has been shut down
+2025-07-07 12:52:21,655 - INFO - Scheduler started
+2025-07-07 12:52:21,693 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 12:52:21,694 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 12:52:21,696 - INFO -  * Restarting with stat
+2025-07-07 12:52:28,299 - INFO - Scheduler started
+2025-07-07 12:52:28,331 - WARNING -  * Debugger is active!
+2025-07-07 12:52:28,339 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:52:46,666 - INFO - Scheduler has been shut down
+2025-07-07 12:52:46,871 - INFO - Scheduler has been shut down
+2025-07-07 12:52:58,524 - INFO - Scheduler started
+2025-07-07 12:52:58,559 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 12:52:58,560 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 12:52:58,560 - INFO -  * Restarting with stat
+2025-07-07 12:53:05,538 - INFO - Scheduler started
+2025-07-07 12:53:05,568 - WARNING -  * Debugger is active!
+2025-07-07 12:53:05,568 - INFO -  * Debugger PIN: 100-071-920
+2025-07-07 12:53:46,575 - INFO - Request received at 2025-07-07 12:53:46.575411. Total calls this hour: 1
+2025-07-07 12:53:46,575 - INFO - Index function called at 2025-07-07 12:53:46.575640
+2025-07-07 12:53:47,336 - INFO - Index function completed in 0.76 seconds at 2025-07-07 12:53:47.336109
+2025-07-07 12:53:47,338 - INFO - Request completed in 0.76 seconds at 2025-07-07 12:53:47.338846
+2025-07-07 12:53:47,340 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:47] "POST / HTTP/1.1" 200 -
+2025-07-07 12:53:50,298 - INFO - Request received at 2025-07-07 12:53:50.298018. Total calls this hour: 2
+2025-07-07 12:53:50,298 - INFO - Index function called at 2025-07-07 12:53:50.298255
+2025-07-07 12:53:50,376 - INFO - Index function completed in 0.08 seconds at 2025-07-07 12:53:50.376520
+2025-07-07 12:53:50,378 - INFO - Request completed in 0.08 seconds at 2025-07-07 12:53:50.378460
+2025-07-07 12:53:50,379 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:50] "POST / HTTP/1.1" 200 -
+2025-07-07 12:53:52,858 - INFO - Request received at 2025-07-07 12:53:52.858589. Total calls this hour: 3
+2025-07-07 12:53:52,863 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:52.863466
+2025-07-07 12:53:52,863 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:52] "GET /dashboard/api_performance HTTP/1.1" 200 -
+2025-07-07 12:53:52,902 - INFO - Request received at 2025-07-07 12:53:52.902761. Total calls this hour: 4
+2025-07-07 12:53:52,906 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:52.906483
+2025-07-07 12:53:52,907 - INFO - Request received at 2025-07-07 12:53:52.907516. Total calls this hour: 5
+2025-07-07 12:53:52,907 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:52] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-07 12:53:52,908 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:52.908611
+2025-07-07 12:53:52,908 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:52] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,194 - INFO - Request received at 2025-07-07 12:53:53.194563. Total calls this hour: 6
+2025-07-07 12:53:53,195 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.195004
+2025-07-07 12:53:53,195 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "GET /dashboard/static/img/favicon.ico HTTP/1.1" 200 -
+2025-07-07 12:53:53,206 - INFO - Request received at 2025-07-07 12:53:53.206272. Total calls this hour: 7
+2025-07-07 12:53:53,206 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.206769
+2025-07-07 12:53:53,207 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,208 - INFO - Request received at 2025-07-07 12:53:53.207986. Total calls this hour: 8
+2025-07-07 12:53:53,209 - INFO - Request received at 2025-07-07 12:53:53.209344. Total calls this hour: 9
+2025-07-07 12:53:53,209 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.209739
+2025-07-07 12:53:53,210 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,210 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.210669
+2025-07-07 12:53:53,211 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,228 - INFO - Request received at 2025-07-07 12:53:53.228966. Total calls this hour: 10
+2025-07-07 12:53:53,232 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.232047
+2025-07-07 12:53:53,232 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2025-07-07 12:53:53,247 - INFO - Request received at 2025-07-07 12:53:53.247964. Total calls this hour: 11
+2025-07-07 12:53:53,248 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.248452
+2025-07-07 12:53:53,249 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,249 - INFO - Request received at 2025-07-07 12:53:53.249888. Total calls this hour: 12
+2025-07-07 12:53:53,251 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.251528
+2025-07-07 12:53:53,251 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:53:53,263 - INFO - Request received at 2025-07-07 12:53:53.263349. Total calls this hour: 13
+2025-07-07 12:53:53,266 - INFO - Request received at 2025-07-07 12:53:53.266297. Total calls this hour: 14
+2025-07-07 12:53:53,267 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:53.267034
+2025-07-07 12:53:53,267 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2025-07-07 12:53:53,270 - INFO - Request completed in 0.01 seconds at 2025-07-07 12:53:53.270263
+2025-07-07 12:53:53,270 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:53] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2025-07-07 12:53:56,276 - INFO - Request received at 2025-07-07 12:53:56.276363. Total calls this hour: 15
+2025-07-07 12:53:56,277 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.277725
+2025-07-07 12:53:56,278 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2025-07-07 12:53:56,283 - INFO - Request received at 2025-07-07 12:53:56.283497. Total calls this hour: 16
+2025-07-07 12:53:56,288 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.288373
+2025-07-07 12:53:56,289 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2025-07-07 12:53:56,329 - INFO - Request received at 2025-07-07 12:53:56.329519. Total calls this hour: 17
+2025-07-07 12:53:56,332 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.332896
+2025-07-07 12:53:56,333 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2025-07-07 12:53:56,656 - INFO - Request received at 2025-07-07 12:53:56.656614. Total calls this hour: 18
+2025-07-07 12:53:56,660 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.660192
+2025-07-07 12:53:56,660 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/api/hourly_load/2025-06-23/2025-07-07 HTTP/1.1" 200 -
+2025-07-07 12:53:56,953 - INFO - Request received at 2025-07-07 12:53:56.953599. Total calls this hour: 19
+2025-07-07 12:53:56,954 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.954166
+2025-07-07 12:53:56,956 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2025-07-07 12:53:56,970 - INFO - Request received at 2025-07-07 12:53:56.970204. Total calls this hour: 20
+2025-07-07 12:53:56,970 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.970787
+2025-07-07 12:53:56,971 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/static/pages/telemetry.html HTTP/1.1" 200 -
+2025-07-07 12:53:56,973 - INFO - Request received at 2025-07-07 12:53:56.973013. Total calls this hour: 21
+2025-07-07 12:53:56,987 - INFO - Request received at 2025-07-07 12:53:56.987938. Total calls this hour: 22
+2025-07-07 12:53:56,992 - INFO - Request completed in 0.00 seconds at 2025-07-07 12:53:56.992743
+2025-07-07 12:53:56,993 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:56] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2025-07-07 12:53:57,087 - INFO - Request received at 2025-07-07 12:53:57.087810. Total calls this hour: 23
+2025-07-07 12:53:57,590 - INFO - Request completed in 0.50 seconds at 2025-07-07 12:53:57.590320
+2025-07-07 12:53:57,590 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:57] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2025-07-07 12:53:57,935 - INFO - Request completed in 0.96 seconds at 2025-07-07 12:53:57.935598
+2025-07-07 12:53:57,935 - INFO - 127.0.0.1 - - [07/Jul/2025 12:53:57] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2025-07-07 12:58:56,687 - INFO - Scheduler has been shut down
+2025-07-07 12:58:56,943 - INFO - Scheduler has been shut down
